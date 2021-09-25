@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{017EB9E1-EE67-AC4C-6967-B26AC3EF9BE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShiftTo2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ClickListener.cs" Line="12" Column="4" />
+      <File FileName="Assets/JMRSDK/JMRToolkits/UX/UI Button/Scripts/V2/JMRUIPrimaryButton.cs" Line="8" Column="11" />
+      <File FileName="Assets/Scripts/ShiftTo2.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a0ad0da0-d46d-4fc0-a271-e72242c9c78c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
